@@ -1,6 +1,6 @@
 # How to run
 
-**Stuff to download**
+**Download Content**
 - Download both files 
 - Dowload Python 3.5.3
 - Download an IDE of your choice, would recommend VsCode
