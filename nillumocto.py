@@ -7,7 +7,7 @@ client = commands.Bot(command_prefix=".")
 async def octo(ctx):
     guild = ctx.guild
     
-    await ctx.send(file=discord.File(r''))
+    await ctx.send(file=discord.File(r'enter you file path here'))
     while 1 == 1:
         channel = await guild.create_text_channel('flooded-by-kamushy')
 
@@ -15,32 +15,6 @@ async def octo(ctx):
         em.add_field(name="Nillumocto", value="Flooded by kamushy#0992" )
         await channel.send(embed = em)
         await channel.send("@everyone")
-
-
-    
-
-    
-    
-    
-    
-    
-             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
              
 client.run('add your token here')
