@@ -1,4 +1,3 @@
-# nillumocto
 # How to run
 
 **Stuff to download**
