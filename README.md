@@ -1,5 +1,5 @@
 # nillumocto
-**How to run**
+# How to run
 
 **Stuff to download**
 - Download both files 
@@ -16,11 +16,4 @@
 - Paste your bot token within the '' of the client.run('add your token here') line
 - Copy the correct path by right clicking the file and clicking 'copy path' for the flooded.txt file 
 - Then run the file in your IDE
-- Type .octo and enjoy your flood
-
-                        ___
-                     .-'   `'.
-                    /         \
-                    |         ;
-                    |         |       
-                    |0)   (0) | 
+- Type .octo and enjoy your flood      
