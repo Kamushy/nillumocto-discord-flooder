@@ -1,5 +1,7 @@
 # How to run
 
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+
 **Download Content**
 - Download both files of this page 
 - Dowload Python 3.5.3
