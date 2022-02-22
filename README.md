@@ -1,7 +1,6 @@
 # How to run
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[downloads-badge]: https://img.shields.io/github/downloads/ntrnl/ntrnl/total?style=flat-square
 
 **Download Content**
 - Download both files of this page 
