@@ -6,10 +6,11 @@ client = commands.Bot(command_prefix=".")
 @client.command()
 async def octo(ctx):
     guild = ctx.guild
+    username = ctx.message.author.name
     
     await ctx.send(file=discord.File(r'enter you file path here'))
     while 1 == 1:
-        channel = await guild.create_text_channel('flooded-by-kamushy')
+        channel = await guild.create_text_channel('flooded-by', username)
 
         em = discord.Embed(title = "Nillumocto", description = "\n", color=0x0ff41)
         em.add_field(name="https://github.com/Kamushy/nillumocto", value="Coded by kamushy#0992" )
