@@ -12,7 +12,7 @@ async def octo(ctx):
         channel = await guild.create_text_channel('flooded-by-kamushy')
 
         em = discord.Embed(title = "Nillumocto", description = "\n", color=0x0ff41)
-        em.add_field(name="https://github.com/Kamushy/nillumocto", value="Flooded by kamushy#0992" )
+        em.add_field(name="https://github.com/Kamushy/nillumocto", value="Coded by kamushy#0992" )
         await channel.send(embed = em)
         await channel.send("@everyone")
 
