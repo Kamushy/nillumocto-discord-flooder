@@ -23,6 +23,6 @@
 - Type .octo and enjoy your flood      
 
 **How to handle errors**
-- Make sure you have python 3.5.7 installed
+- Make sure you have Python 3.5.7 installed
 - Make sure discord.py is installed (Google how to install python packets)
 - If all of the above have been tested download the oldest release, which will work 100% of the time
