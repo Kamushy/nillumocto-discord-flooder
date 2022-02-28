@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 
-
+**Tips before running**
+- for maximum effiencency type the command many of times
+- Only change what is told below
 
 **Download Content**
 - Download both files of this page 
