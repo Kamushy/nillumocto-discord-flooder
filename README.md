@@ -4,7 +4,7 @@
 ## **How to run**
 
 #### **Download Content**
-- Download both files of this page 
+- Download both files from the latest release
 - Dowload Python 3.7.8
 - Download an IDE of your choice, would recommend VsCode
 - Enter 'pip install discord.py' into the command line
