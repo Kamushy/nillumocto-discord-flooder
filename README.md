@@ -1,7 +1,7 @@
 # Help for the user
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 
-## **HOW TO RUN**
+## **How to run**
 
 #### **Download Content**
 - Download both files of this page 
@@ -24,12 +24,12 @@ https://www.youtube.com/watch?v=b61kcgfOm_4
       
 
 
-## **Discord commands**
+# **Discord commands**
 - .octo to flood by creating new channels
 - .delete to delete all channels in the server (probably should be first)
 
 
-## **Errors**
+# **Errors**
 - Make sure you have Python 3.7.8 installed
 - Make sure discord.py is installed (Google how to install python packets)
 - If all of the above have been tested download the oldest release, which will work 100% of the time
