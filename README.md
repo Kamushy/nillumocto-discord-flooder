@@ -7,7 +7,7 @@
 - Download both files of this page 
 - Dowload Python 3.7.8
 - Download an IDE of your choice, would recommend VsCode
-- run 'pip install discord.py'
+- enter 'pip install discord.py' into the command line
 ```ruby
 pip install discord.py
 ```
