@@ -22,10 +22,13 @@ https://www.youtube.com/watch?v=b61kcgfOm_4
 
 #### **Finalising code**
 - Paste your bot token within the '' of the client.run('add your token here') line
-
+```ruby
+#enter within brackets, keep qoutes
+client.run('add your token here')
+```
 - Copy the correct path by right clicking the file and clicking 'copy path' for the flooded.txt file 
 ```ruby
-#Line the needs to be replaced
+#Line the needs to be replaced, keep qoutes and the r
 await ctx.send(file=discord.File(r'enter you file path here'))
 #example 
 await ctx.send(file=discord.File(r'C\flooded.txt'))
