@@ -1,7 +1,8 @@
 # Help for the user
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 
-**HOW TO RUN**
+**HOW TO RUN
+
 **Download Content**
 - Download both files of this page 
 - Dowload Python 3.7.8
