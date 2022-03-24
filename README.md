@@ -20,9 +20,7 @@ https://www.youtube.com/watch?v=b61kcgfOm_4
 #### **Finalising code**
 - Paste your bot token within the '' of the client.run('add your token here') line
 - Copy the correct path by right clicking the file and clicking 'copy path' for the flooded.txt file 
-- Then run the file in your IDE
-- 
-      
+- Then run the file in your IDE     
 
 
 # **Discord commands**
