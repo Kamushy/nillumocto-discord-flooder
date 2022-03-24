@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=b61kcgfOm_4
 - .delete to delete all channels in the server (probably should be first)
 
 
-## **HOW TO HANDLE ERRORS**
+## **Errors**
 - Make sure you have Python 3.7.8 installed
 - Make sure discord.py is installed (Google how to install python packets)
 - If all of the above have been tested download the oldest release, which will work 100% of the time
