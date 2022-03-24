@@ -7,7 +7,7 @@
 - Download both files of this page 
 - Dowload Python 3.7.8
 - Download an IDE of your choice, would recommend VsCode
-- enter 'pip install discord.py' into the command line
+- Enter 'pip install discord.py' into the command line
 ```ruby
 pip install discord.py
 ```
@@ -15,14 +15,21 @@ pip install discord.py
 #### **Setting up discord bot**
 - Go over to the discord developer portal
 - Create a bot
-- Get the token for the bot (will be used later, DO NOT SHARE WITH FRIENDS)
+- Get the token for the bot 
 - Invite it to the discord server
-step by step from this yt video
+- Step by step from this yt video
 https://www.youtube.com/watch?v=b61kcgfOm_4
 
 #### **Finalising code**
 - Paste your bot token within the '' of the client.run('add your token here') line
+
 - Copy the correct path by right clicking the file and clicking 'copy path' for the flooded.txt file 
+```ruby
+#Line the needs to be replaced
+await ctx.send(file=discord.File(r'enter you file path here'))
+#example 
+await ctx.send(file=discord.File(r'C\flooded.txt'))
+```
 - Then run the file in your IDE     
 
 
