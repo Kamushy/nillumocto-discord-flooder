@@ -8,6 +8,9 @@
 - Dowload Python 3.7.8
 - Download an IDE of your choice, would recommend VsCode
 - run 'pip install discord.py'
+```ruby
+pip install discord.py
+```
 
 #### **Setting up discord bot**
 - Go over to the discord developer portal
