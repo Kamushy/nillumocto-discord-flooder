@@ -9,7 +9,7 @@
 - Download an IDE of your choice, would recommend VsCode
 - Enter 'pip install discord.py' into the command line
 ```ruby
-pip install discord.py
+pip install discord
 ```
 
 #### **Setting up discord bot**
