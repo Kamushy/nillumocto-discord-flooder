@@ -21,7 +21,7 @@ pip install discord
 https://www.youtube.com/watch?v=b61kcgfOm_4
 
 #### **Finalising code**
-- Paste your bot token within the '' of the client.run('add your token here') line
+- Paste your bot token within the " " of the client.run('add your token here') line
 ```ruby
 #enter within brackets, keep qoutes
 client.run('add your token here')
