@@ -38,8 +38,9 @@ await ctx.send(file=discord.File(r'C\flooded.txt'))
 
 
 # **Discord commands**
+- .delete to delete all channels in the server
 - .octo to flood by creating new channels
-- .delete to delete all channels in the server (probably should be first)
+- .rename to rename all the members
 
 
 # **Errors**
